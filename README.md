@@ -4,3 +4,5 @@
 
 > Использование UICollection
 > Использование Auto Layout
+
+![](Carrot/ReadmeAssets/Запись экрана 2022-07-28 в 15.08.11.gif)
