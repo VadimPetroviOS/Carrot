@@ -5,4 +5,4 @@
 > Использование UICollection
 > Использование Auto Layout
 
-![](Carrot/ReadmeAssets/Запись экрана 2022-07-28 в 15.08.11.gif)
+![picture](https://github.com/VadimPetroviOS/Carrot/blob/main/ReadmeAssets/Запись%20экрана%202022-07-28%20в%2015.08.11.gif)
