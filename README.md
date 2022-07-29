@@ -2,8 +2,8 @@
 Приложение для вечеринок(Как заставить человека сказать морковка).
 ## Основные возможности
 
->Использование UICollectionView
->Использование Auto Layout
+⋅⋅⋅* Использование UICollectionView
+⋅⋅⋅* Использование Auto Layout
 
 ![picture](https://github.com/VadimPetroviOS/Carrot/blob/main/ReadmeAssets/SwitchView.gif)
 ![picture](https://github.com/VadimPetroviOS/Carrot/blob/main/ReadmeAssets/SwitchViewButton.gif)
